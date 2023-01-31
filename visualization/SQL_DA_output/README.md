@@ -1,0 +1,1 @@
+This is the dir to store the output from analysis.sql. It is the input data for building the Tableau dashboard for the presentation.

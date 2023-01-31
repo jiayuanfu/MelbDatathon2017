@@ -1,0 +1,13 @@
+*.pyc
+**/*.ipynb_checkpoints/
+*.DS_Store
+*__pycache__
+.vscode
+.pytest_cache
+mydir
+aws
+.darts
+sol_*.py
+
+notebooks/*
+!notebooks/templates/*
